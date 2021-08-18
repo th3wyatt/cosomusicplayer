@@ -1,0 +1,4 @@
+Mastodon.py==1.5.1
+pafy
+python-vlc==3.0.12118
+youtube-dl==2021.6.6
